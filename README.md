@@ -1,1 +1,2 @@
 # Loan-Prediction
+In this LOAN PREDICTION DATASET we want to automate the Loan eligibility process to reduce the classification of genuine customer or a non eligible customer for loan. we wants to this loan eligibility process to be easy and automatic. In this we analyze the customer details fill by them in online application form. It contains different parameter to predict the loan approval for the particular customer.
